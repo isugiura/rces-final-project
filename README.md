@@ -26,7 +26,7 @@ Link: https://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/
     - Figure 4: global vs. regional SST anomalies (with plots to show the magnitude of detrending in them)
 5. Focus the analysis on ENSO indices' four Niño regions
     - Figure 5: SST seasonalities in the four Niño regions
-    - Figure 6: SST anomalies in the four Niño regions (with plots to compare the number of grids with large anomalies)
+    - Figure 6: SST anomalies in the four Niño regions (with plots to compare the number of grids with large positive anomalies)
 
 -----
 -----
